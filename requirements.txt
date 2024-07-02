@@ -72,7 +72,7 @@ qrcode==7.4.2
 requests==2.32.3
 requests-oauthlib==2.0.0
 scikit-image==0.18.3
-scikit-learn-intelex==2021.20210714.170444
+scikit-learn-intelex==2021.4.0
 scipy==1.8.1
 simplegeneric==0.8.1
 sip==4.19.13
